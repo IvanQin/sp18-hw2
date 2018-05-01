@@ -1,2 +1,2 @@
 #!/bin/bash
-./target/globesort/bin/runClient $1 9111 $2
+./target/globesort/bin/runClient $1 8080 $2

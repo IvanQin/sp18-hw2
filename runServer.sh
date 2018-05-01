@@ -1,2 +1,2 @@
 #!/bin/bash
-./target/globesort/bin/runServer 9111
+./target/globesort/bin/runServer 8080
